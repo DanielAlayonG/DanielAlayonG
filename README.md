@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 Computer Development Technologist
-- 📫 Software Engineer Student
+- 📫 Full stack developer (nodejs, php, mysql, angular)
 - 🔭 I’m currently improving my frontend Skills
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on Open Source Projects
